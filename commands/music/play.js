@@ -30,6 +30,6 @@ module.exports.run = function(bot, command, args, message, updateJSON, addFooter
 
 module.exports.help = {
     names: ['play'],
-    usage: 'b-play',
+    usage: '-play',
     description: 'Start the music'
 }
